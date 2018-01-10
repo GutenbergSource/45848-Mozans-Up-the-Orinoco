@@ -1,0 +1,58 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/cover-tn.jpg" filesize="6108" filedate="2014-05-28 18:19:23" width="209px" height="320px">
+</image>
+<image path="images/cover.jpg" filesize="32202" filedate="2014-05-28 18:19:01" width="470px" height="720px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/map.png" filesize="45495" filedate="2014-05-27 18:26:05" width="720px" height="389px">
+</image>
+<image path="images/maph.jpg" filesize="225451" filedate="2014-05-27 18:25:02" width="2048px" height="1105px">
+</image>
+<image path="images/music.png" filesize="5069" filedate="2014-05-29 19:09:23" width="587px" height="77px">
+</image>
+<image path="images/p000.jpg" filesize="65412" filedate="2014-05-27 18:19:26" width="720px" height="458px">
+</image>
+<image path="images/p042.jpg" filesize="65422" filedate="2014-05-29 16:26:04" width="463px" height="720px">
+</image>
+<image path="images/p076.jpg" filesize="62041" filedate="2014-05-29 16:30:17" width="720px" height="458px">
+</image>
+<image path="images/p094.jpg" filesize="61521" filedate="2014-05-29 16:33:59" width="459px" height="720px">
+</image>
+<image path="images/p122-1.jpg" filesize="35304" filedate="2014-05-29 16:39:40" width="600px" height="441px">
+</image>
+<image path="images/p122-2.jpg" filesize="34526" filedate="2014-05-29 16:41:18" width="593px" height="441px">
+</image>
+<image path="images/p160.jpg" filesize="79198" filedate="2014-05-29 16:45:10" width="720px" height="461px">
+</image>
+<image path="images/p176.jpg" filesize="67859" filedate="2014-05-29 16:48:04" width="720px" height="462px">
+</image>
+<image path="images/p204.jpg" filesize="52668" filedate="2014-05-29 16:51:23" width="467px" height="720px">
+</image>
+<image path="images/p220-1.jpg" filesize="42891" filedate="2014-05-29 16:55:16" width="611px" height="446px">
+</image>
+<image path="images/p220-2.jpg" filesize="41604" filedate="2014-05-29 16:57:12" width="615px" height="453px">
+</image>
+<image path="images/p240.jpg" filesize="43708" filedate="2014-05-29 17:02:56" width="460px" height="720px">
+</image>
+<image path="images/p262.jpg" filesize="74878" filedate="2014-05-29 17:07:56" width="720px" height="463px">
+</image>
+<image path="images/p286.jpg" filesize="51270" filedate="2014-05-29 17:11:24" width="477px" height="720px">
+</image>
+<image path="images/p326.png" filesize="12916" filedate="2014-05-27 17:53:14" width="591px" height="269px">
+</image>
+<image path="images/p332.jpg" filesize="54828" filedate="2014-05-29 17:14:25" width="526px" height="720px">
+</image>
+<image path="images/p354.jpg" filesize="47076" filedate="2014-05-29 17:17:44" width="720px" height="471px">
+</image>
+<image path="images/p372.jpg" filesize="49675" filedate="2014-05-29 17:20:27" width="720px" height="462px">
+</image>
+<image path="images/p414.jpg" filesize="80211" filedate="2014-05-29 17:22:41" width="720px" height="503px">
+</image>
+<image path="images/titlepage.png" filesize="15624" filedate="2014-05-27 17:58:34" width="436px" height="720px">
+</image>
+</images>
